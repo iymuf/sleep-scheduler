@@ -40,9 +40,9 @@
 
 ##### 
 
-##### bash
+##### 
 
-##### git clone https://github.com/your-username/sleep-scheduler.git
+##### git clone https://github.com/iymuf/sleep-scheduler
 
 ##### cd sleep-scheduler
 
